@@ -27,6 +27,7 @@ Karadeniz Teknik Üniversitesi **Yönetim Bilişim Sistemleri** 4. sınıf öğr
 |---|---|
 | 🎓 **Karadeniz Teknik Üniversitesi** | Yönetim Bilişim Sistemleri · Lisans (2023 – ) |
 | 🤝 **Türkiye Veri Topluluğu** | Üniversite Elçisi (Eylül 2026 – ) |
+| 🤝 **AIESEC** | B2B ve OGT Departman Üyesi (2024 – 2025 ) |
 
 ## Öne Çıkan Projeler
 
